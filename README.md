@@ -1,6 +1,8 @@
 # Brok-AI
 
 ### Building intelligent tools. Making AI practical.
+</p><p align="center">
+  <img src="https://github.com/Brok-AI.png" alt="Nexora-Techno Logo" width="180">
 
 Brok-AI is an independent open-source organization exploring practical artificial intelligence, desktop software, developer productivity, and automation.
 
