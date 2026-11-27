@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Brok-AI Organization
+    url: https://github.com/Brok-AI
+    about: Explore Brok-AI repositories and project documentation.
+  - name: Security Policy
+    url: https://github.com/Brok-AI/.github/blob/main/SECURITY.md
+    about: Read how to report security vulnerabilities privately.
